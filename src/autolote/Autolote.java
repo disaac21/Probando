@@ -11,6 +11,8 @@ public class Autolote {
 
     public static void main(String[] args) {
 
+        System.out.println("Testing Git");
+        
         int menu = 0;
         while (menu != 10) {
             menu = Integer.parseInt(
